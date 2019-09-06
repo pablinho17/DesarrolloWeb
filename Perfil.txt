@@ -1,0 +1,19 @@
+Titulo Proyecto:SisVen
+
+Autor/es:Pablo Tapia 
+Aldrich Apablaza
+
+Cliente:Un Minimarket
+ 
+Descripcion:En la actualidad la mayoria de las grandes empresas que venden algun producto ya sea,Comida, elementos 
+de construcción, o articulos de uso diario, tienen un sistema de ventas online es por eso que me gustaria crear
+una página web de este tipo, pero no enfocado a una empresa si no que a un minimarket, ejemplo intentare crear 
+una base de datos con los productos que se encuentran en uno cercano a mi casa, para hacer la página web lo mas 
+real posible, la idea es que tenga un menú de compras, un banner con ofertas, también si es posible, crear una 
+forma de registro, para que quede en la base de datos y para que lo que se agrega al carrito de compras online,
+la idea es que lo que se agregue al carrito vaya quedando dentro del perfil de la persona que se registro como comprador,
+y obviamente si desea eliminar un elemento desde el carrito se pueda y en caso de cancelar la venta, se elimine los
+datos de la persona y lo que habia agregado al carro, ademas de los usuarios que deberan registrarse como compradores 
+con sus datos antes de comenzar a agregar productos a su carrito tambien existira otro tipo de usuario que sera de tipo
+Administrador el que tendra acceso a las compras que se estan realizando y en caso de existir un mal entendido en las
+compras realizadas por el usuario comprador el puede retrotraer la compra de aquel.  
